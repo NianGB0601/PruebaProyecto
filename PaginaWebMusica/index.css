@@ -99,6 +99,24 @@ header a:hover{
     background-position: center center;
 }
 
+#bosque{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 90vh;
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    )
+    ,url("media/UniversidadElBosque.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 #Intro{
     display: flex;
     align-items: center;
@@ -263,6 +281,102 @@ footer .container{
         margin-top: 0px;
     }
 
+    .musicos{
+                
+        
+        align-items: left;
+        font-size: 32px;
+        margin: 50px 0px 0px 90px;
+       
+       
+        
+    
+}
+
+.estiloTextos{
+
+    text-align: center;
+    align-items: center;
+    
+    
+    
+}
+
+.text1{
+
+    align-items: center center;
+    
+    padding: 0px 40px 30px 40px;
+   
+  
+}
+
+.img5{
+
+    border: solid black 2px;
+
+}
+
+
+.fondo3{
+
+    padding: 0px 0px px 0px;
+    display:flex;
+    justify-content: left;
+    align-items: left;
+
+    
+}
+
+.estudio{
+                    
+            
+    align-items: left;
+    font-size: 32px;
+    margin: 30px 0px 0px 90px;
+   
+}
+
+.contenedor2{
+
+    overflow: hidden;
+    width: 900px;
+    display: flex;
+    padding: 0px 0px 0px 80px;
+    margin: -10px 0px 0px 90px;
+    position: relative;
+    
+
+
+}
+
+.text2{
+
+    align-items: center;
+    
+    padding: 30px 40px 30px 40px;
+   
+  
+}
+
+.estiloTextos{
+
+    text-align: center;
+    align-items: center;
+    
+    
+    
+}
+
+.fondo4{
+
+    padding: 0px 0px px 0px;
+    display:flex;
+    justify-content: left;
+    align-items: left;
+
+    
+}
     #somos-proya .img-container{
        
        
